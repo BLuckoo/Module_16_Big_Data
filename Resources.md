@@ -17,12 +17,25 @@
 * [Git Game](https://github.com/git-game/git-game)
 * [Git the simple guide](https://rogerdudler.github.io/git-guide/)
 
+### Markdown
+
+* [W3 School](https://www.w3schools.io/file/markdown-introduction/)
+* [Github Markdown](https://guides.github.com/features/mastering-markdown/)
+* [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+
 ## Excel
 
 * [Named Ranges](https://www.lifewire.com/define-and-edit-named-range-in-excel-4178633)
 * [Pivot Tables](https://www.wikihow.com/Create-Pivot-Tables-in-Excel)
 * [VLOOKUP](https://support.microsoft.com/en-us/office/vlookup-942f678a-1bfc-4ccf-8dfa-f5057ded5c65?ui=en-US&rs=en-US&ad=US)
 * [Keyboard Shortcuts](https://exceljet.net/keyboard-shortcuts)
+
+### Charting
+
+* [Excel Charting](https://www.excel-easy.com/data-analysis/charts.html)
+* [Data Visualization Catalog](https://datavizcatalogue.com/index.html)]
+* [Types of Graphs with Explanations](http://www.intellspot.com/types-graphs-charts/)
+* [Another One](https://venngage.com/blog/how-to-choose-the-best-charts-for-your-infographic/)
 
 ### In the Wild
 
@@ -31,3 +44,15 @@
 * [https://blogs.oracle.com/smb/10-of-the-costliest-spreadsheet-boo-boos-in-history](https://blogs.oracle.com/smb/10-of-the-costliest-spreadsheet-boo-boos-in-history)
 * [https://www.businessinsider.com/stupid-spreadsheet-mistakes-could-lead-to-corporate-disaster-2015-4](https://www.businessinsider.com/stupid-spreadsheet-mistakes-could-lead-to-corporate-disaster-2015-4)
 * [https://blog.caspio.com/5-of-the-most-terrifying-excel-spreadsheet-horror-stories-weve-ever-heard/](https://blog.caspio.com/5-of-the-most-terrifying-excel-spreadsheet-horror-stories-weve-ever-heard/)
+
+## Statistics
+
+### Summary Statistics (Mean, Median, Mode, Variance, Standard Deviation)
+
+* [Discussion of Summary Statistics](https://statisticsbyjim.com/basics/variability-range-interquartile-variance-standard-deviation/)
+* [Summary of Summary Statistics](https://docs.google.com/document/d/17zMCZxHY3qpFg5E3DAW0JhF6ZSaERdQPEZEkv0v3O-0/edit)
+* [Naked Statistics - Book (Non-Free)](https://www.amazon.ca/Naked-Statistics-Stripping-Dread-Data/dp/039334777X)
+* Statistics (OpenStax)
+  * [Section 2.5](https://openstax.org/books/introductory-statistics/pages/2-5-measures-of-the-center-of-the-data)
+  * [Section 2.6](https://openstax.org/books/introductory-statistics/pages/2-6-skewness-and-the-mean-median-and-mode)
+  * [Section 2.7](https://openstax.org/books/introductory-statistics/pages/2-7-measures-of-the-spread-of-the-data)
