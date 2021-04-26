@@ -56,3 +56,10 @@
   * [Section 2.5](https://openstax.org/books/introductory-statistics/pages/2-5-measures-of-the-center-of-the-data)
   * [Section 2.6](https://openstax.org/books/introductory-statistics/pages/2-6-skewness-and-the-mean-median-and-mode)
   * [Section 2.7](https://openstax.org/books/introductory-statistics/pages/2-7-measures-of-the-spread-of-the-data)
+
+## VBA
+
+* [VBA Overview](https://www.tutorialspoint.com/vba/vba_overview.htm)
+* [VBA Variables](https://www.guru99.com/vba-data-types-variables-constant.html)
+* [VBA Data Types](https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/data-type-summary)
+* [Truth Tables](https://en.wikipedia.org/wiki/Truth_table)
