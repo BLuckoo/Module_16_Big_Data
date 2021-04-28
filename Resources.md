@@ -63,3 +63,5 @@
 * [VBA Variables](https://www.guru99.com/vba-data-types-variables-constant.html)
 * [VBA Data Types](https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/data-type-summary)
 * [Truth Tables](https://en.wikipedia.org/wiki/Truth_table)
+* [VBA Loops](https://www.wallstreetmojo.com/vba-loop/)
+* [VBA Formatting](https://www.excelhowto.com/macros/formatting-a-range-of-cells-in-excel-vba/)
