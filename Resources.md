@@ -65,3 +65,15 @@
 * [Truth Tables](https://en.wikipedia.org/wiki/Truth_table)
 * [VBA Loops](https://www.wallstreetmojo.com/vba-loop/)
 * [VBA Formatting](https://www.excelhowto.com/macros/formatting-a-range-of-cells-in-excel-vba/)
+
+
+## Terminal
+
+* [Basic Terminal Commands](https://www.hostinger.com/tutorials/linux-commands)
+
+## Python - Intro
+
+* [Introduction to Python](https://www.learnpython.org/)
+* [Python's built-in Modules](https://docs.python.org/3/py-modindex.html)
+* [Python String Formatting](https://realpython.com/python-string-formatting/)
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/#toc)
