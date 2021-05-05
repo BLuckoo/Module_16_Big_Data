@@ -77,3 +77,7 @@
 * [Python's built-in Modules](https://docs.python.org/3/py-modindex.html)
 * [Python String Formatting](https://realpython.com/python-string-formatting/)
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/#toc)
+* [Python Dictionaries](https://www.tutorialspoint.com/python/python_dictionary.htm)
+* [List Comprehensions](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
+* [Reading CSVs](https://pythonprogramming.net/reading-csv-files-python-3/)
+* [Writting CVSs](https://realpython.com/python-csv/#writing-csv-files-with-csv)
