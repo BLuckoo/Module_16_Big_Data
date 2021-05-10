@@ -81,3 +81,18 @@
 * [List Comprehensions](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
 * [Reading CSVs](https://pythonprogramming.net/reading-csv-files-python-3/)
 * [Writting CVSs](https://realpython.com/python-csv/#writing-csv-files-with-csv)
+
+## Pandas
+
+* [Pandas Documentation](https://pandas.pydata.org/)
+* [Creating Dataframes from Scratch](https://www.geeksforgeeks.org/different-ways-to-create-pandas-dataframe/)
+* [Pandas Read CSV](https://www.shanelynn.ie/python-pandas-read-csv-load-data-from-csv-files/)
+* [Dealing with Rows and Columns](https://www.geeksforgeeks.org/dealing-with-rows-and-columns-in-pandas-dataframe/)
+* [Writing Data to CSV](https://datatofish.com/export-dataframe-to-csv/)
+* [Pandas Cheatsheet](https://www.dataquest.io/blog/pandas-cheat-sheet/)
+* [Merging in Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html)
+* [Visual Guide to Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
+* [Pandas Loc and iLoc](https://www.analyticsvidhya.com/blog/2020/02/loc-iloc-pandas/)
+* [Pandas Deleting Data](https://pythonexamples.org/pandas-dataframe-delete-column/#:~:text=To%20delete%20or%20remove%20only%20one%20column%20from,Pandas%20Dataframe%2C%20use%20drop%28%29%20function%20on%20the%20dataframe.)
+* [Pandas Grouping and Sorting](https://medium.com/datamadeeasy/pandas-made-easy-groupby-65e4e3c26a6)
+* 
