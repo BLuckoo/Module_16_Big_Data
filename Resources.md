@@ -95,4 +95,3 @@
 * [Pandas Loc and iLoc](https://www.analyticsvidhya.com/blog/2020/02/loc-iloc-pandas/)
 * [Pandas Deleting Data](https://pythonexamples.org/pandas-dataframe-delete-column/#:~:text=To%20delete%20or%20remove%20only%20one%20column%20from,Pandas%20Dataframe%2C%20use%20drop%28%29%20function%20on%20the%20dataframe.)
 * [Pandas Grouping and Sorting](https://medium.com/datamadeeasy/pandas-made-easy-groupby-65e4e3c26a6)
-* 
