@@ -7,6 +7,7 @@
 * [https://www.wired.com/story/is-your-chart-a-detective-story-or-a-police-report/](https://www.wired.com/story/is-your-chart-a-detective-story-or-a-police-report/)
 * [https://blog.acolyer.org/2019/10/23/futzing-and-moseying/](https://blog.acolyer.org/2019/10/23/futzing-and-moseying/)
 * [Storytelling with data (particularly Chapter 7) - Non Free](https://www.amazon.ca/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257/ref=sr_1_1?dchild=1&keywords=storytelling+with+data&qid=1618236064&s=books&sr=1-1)
+* [Alternatives to Pie Charts](https://www.storytellingwithdata.com/blog/2014/06/alternatives-to-pies)
 
 ## Git
 
@@ -79,6 +80,7 @@
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/#toc)
 * [Python Dictionaries](https://www.tutorialspoint.com/python/python_dictionary.htm)
 * [List Comprehensions](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
+* [When to use list Comprehensions](https://realpython.com/list-comprehension-python/)
 * [Reading CSVs](https://pythonprogramming.net/reading-csv-files-python-3/)
 * [Writting CVSs](https://realpython.com/python-csv/#writing-csv-files-with-csv)
 
@@ -95,3 +97,14 @@
 * [Pandas Loc and iLoc](https://www.analyticsvidhya.com/blog/2020/02/loc-iloc-pandas/)
 * [Pandas Deleting Data](https://pythonexamples.org/pandas-dataframe-delete-column/#:~:text=To%20delete%20or%20remove%20only%20one%20column%20from,Pandas%20Dataframe%2C%20use%20drop%28%29%20function%20on%20the%20dataframe.)
 * [Pandas Grouping and Sorting](https://medium.com/datamadeeasy/pandas-made-easy-groupby-65e4e3c26a6)
+
+## Matplotlib
+
+* [Matplotlib Docs](https://matplotlib.org/2.0.2/examples/index.html)
+* [Introduction to Matplotlib](https://towardsdatascience.com/introduction-to-matplotlib-in-python-5f5a9919991f)
+* [Pandas Plotting](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
+* [Matplotlib Styling](https://www.geeksforgeeks.org/matplotlib-pyplot-title-in-python/)
+
+## Numpy
+
+* [Numpy Docs](https://numpy.org/)
