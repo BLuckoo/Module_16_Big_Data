@@ -108,3 +108,11 @@
 ## Numpy
 
 * [Numpy Docs](https://numpy.org/)
+
+## APIs
+
+* [50 Useful APIs](https://www.computersciencezone.org/50-most-useful-apis-for-developers/#:~:text=1%20Census%20API%3A%20Access%20vast%20datasets%20from%20the,media%20profiles%2C%20followers%2C%20and%20activity.%20More%20items...%20)
+* [Public APIs](https://github.com/public-apis/public-apis)
+* [API List](https://apilist.fun/)
+* [Python Try-Except Tutorial](https://www.w3schools.com/python/python_try_except.asp)
+* [https://openweathermap.org/api](Open WeatherMap API)
