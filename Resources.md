@@ -116,3 +116,56 @@
 * [API List](https://apilist.fun/)
 * [Python Try-Except Tutorial](https://www.w3schools.com/python/python_try_except.asp)
 * [https://openweathermap.org/api](Open WeatherMap API)
+
+## SQL
+
+* [Create a Database](https://www.tutorialspoint.com/postgresql/postgresql_create_database.htm)
+* [Create a Table](https://www.tutorialspoint.com/postgresql/postgresql_create_table.htm)
+* [Datatypes](https://www.tutorialspoint.com/postgresql/postgresql_data_types.htm)
+* [Primary Keys](https://www.tutorialspoint.com/sql/sql-primary-key.htm)
+* [SQL Basics](https://www.codecademy.com/learn/learn-sql)
+* [Advanced Topics](https://www.kdnuggets.com/2019/05/7-steps-mastering-sql-data-science-2019-edition.html)
+* [Case Function](https://mode.com/sql-tutorial/sql-case/)
+* [Distinct](https://www.w3schools.com/sql/sql_distinct.asp)
+
+### Aggregate Functions
+
+* [Aggregate Functions](https://mode.com/sql-tutorial/sql-aggregate-functions/)
+* [Postgres Aggregate Functions](https://www.postgresql.org/docs/9.5/functions-aggregate.html)
+
+### Joins
+
+* [Visual Joins](https://joins.spathon.com/)
+* [Explanation of Joins](https://dataschool.com/how-to-teach-people-sql/sql-join-types-explained-visually/)
+* [Visual Explanation of Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
+
+### Subqueries
+
+* [SELECT within SELECT](https://sqlzoo.net/wiki/SELECT_within_SELECT_Tutorial)
+* [Table Expressions](https://www.citusdata.com/blog/2018/08/09/fun-with-sql-common-table-expressions/)
+* [Common Table Expressions](https://www.essentialsql.com/introduction-common-table-expressions-ctes/)
+
+## Window Functions
+
+* [Window Functions](https://sqlzoo.net/wiki/Window_functions)
+* [LAG, LEAD](https://sqlzoo.net/wiki/Window_LAG)
+
+### Tools
+
+* [In Browser SQL](https://sqlzoo.net/)
+
+### SQL Interview Questions
+
+* [How to Ace SQL Interviews](https://towardsdatascience.com/how-to-ace-data-science-interviews-sql-b71de212e433)
+* [Interview Questions](https://data36.com/sql-interview-questions-tech-screening-data-analysts/)
+* [Advanced Questions](https://docs.google.com/document/d/1Uh0uznK81WDJeBPFcc57GaTMvuoBj48duYEuJctE54o/edit)
+
+## Interview Questions
+
+* [160+ Interview Questions](https://hackernoon.com/160-data-science-interview-questions-415s3y2a)
+* [Data Science Interview Questions](https://www.dezyre.com/article/2018-data-science-interview-questions-for-top-tech-companies-/189)
+* [66 Job Interview Questions for Data Scientists](https://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists)
+* [100+ Data Science Interview Questons](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
+* [Huge List of Links to Interview Questions for Different Languages](https://github.com/DopplerHQ/awesome-interview-questions)
+* [More Data Science Questions](https://github.com/alexeygrigorev/data-science-interviews)
+* [Awesome Data Science Interview Resources](https://ds-interviews.org/awesome.html)
