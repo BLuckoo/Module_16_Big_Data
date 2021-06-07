@@ -67,24 +67,39 @@
 * [VBA Loops](https://www.wallstreetmojo.com/vba-loop/)
 * [VBA Formatting](https://www.excelhowto.com/macros/formatting-a-range-of-cells-in-excel-vba/)
 
-
 ## Terminal
 
 * [Basic Terminal Commands](https://www.hostinger.com/tutorials/linux-commands)
 
-## Python - Intro
+## Python
 
 * [Introduction to Python](https://www.learnpython.org/)
 * [Python's built-in Modules](https://docs.python.org/3/py-modindex.html)
 * [Python String Formatting](https://realpython.com/python-string-formatting/)
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/#toc)
 * [Python Dictionaries](https://www.tutorialspoint.com/python/python_dictionary.htm)
-* [List Comprehensions](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
-* [When to use list Comprehensions](https://realpython.com/list-comprehension-python/)
+
+### Python Toolbox
+
+#### File I/O
+
 * [Reading CSVs](https://pythonprogramming.net/reading-csv-files-python-3/)
 * [Writting CVSs](https://realpython.com/python-csv/#writing-csv-files-with-csv)
+  
+#### List Comprehensions
 
-## Pandas
+* [When to use list Comprehensions](https://realpython.com/list-comprehension-python/)
+* [Understanding List Comprehensions](https://www.digitalocean.com/community/tutorials/understanding-list-comprehensions-in-python-3)
+* [List Comprehensions](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
+
+#### Lambda Functions
+
+* [How to use lambda functions](https://realpython.com/python-lambda/)
+* [Lambda, Filter, Reduce and Map](https://www.python-course.eu/python3_lambda.php)
+
+### Python Libraries
+
+#### Pandas
 
 * [Pandas Documentation](https://pandas.pydata.org/)
 * [Creating Dataframes from Scratch](https://www.geeksforgeeks.org/different-ways-to-create-pandas-dataframe/)
@@ -98,14 +113,14 @@
 * [Pandas Deleting Data](https://pythonexamples.org/pandas-dataframe-delete-column/#:~:text=To%20delete%20or%20remove%20only%20one%20column%20from,Pandas%20Dataframe%2C%20use%20drop%28%29%20function%20on%20the%20dataframe.)
 * [Pandas Grouping and Sorting](https://medium.com/datamadeeasy/pandas-made-easy-groupby-65e4e3c26a6)
 
-## Matplotlib
+#### Matplotlib
 
 * [Matplotlib Docs](https://matplotlib.org/2.0.2/examples/index.html)
 * [Introduction to Matplotlib](https://towardsdatascience.com/introduction-to-matplotlib-in-python-5f5a9919991f)
 * [Pandas Plotting](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
 * [Matplotlib Styling](https://www.geeksforgeeks.org/matplotlib-pyplot-title-in-python/)
 
-## Numpy
+#### Numpy
 
 * [Numpy Docs](https://numpy.org/)
 
@@ -159,6 +174,12 @@
 * [How to Ace SQL Interviews](https://towardsdatascience.com/how-to-ace-data-science-interviews-sql-b71de212e433)
 * [Interview Questions](https://data36.com/sql-interview-questions-tech-screening-data-analysts/)
 * [Advanced Questions](https://docs.google.com/document/d/1Uh0uznK81WDJeBPFcc57GaTMvuoBj48duYEuJctE54o/edit)
+
+## Regex
+
+* [Regex Cheatsheet](https://ihateregex.io/cheatsheet/)
+* [Regex Tester](https://regexr.com/)
+* [Common Regex Patterns](https://digitalfortress.tech/tricks/top-15-commonly-used-regex/)
 
 ## Interview Questions
 
