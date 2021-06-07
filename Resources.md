@@ -160,7 +160,7 @@
 * [Table Expressions](https://www.citusdata.com/blog/2018/08/09/fun-with-sql-common-table-expressions/)
 * [Common Table Expressions](https://www.essentialsql.com/introduction-common-table-expressions-ctes/)
 
-## Window Functions
+### Window Functions
 
 * [Window Functions](https://sqlzoo.net/wiki/Window_functions)
 * [LAG, LEAD](https://sqlzoo.net/wiki/Window_LAG)
