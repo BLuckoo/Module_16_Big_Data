@@ -124,6 +124,18 @@
 
 * [Numpy Docs](https://numpy.org/)
 
+#### SQLAlchemy
+
+* [SQLAlchemy Docs](https://www.sqlalchemy.org/)
+* [Python queries with SQLAlchemy](https://hackersandslackers.com/database-queries-sqlalchemy-orm/)
+* [SQLAlchemy Queries](https://www.leeladharan.com/sqlalchemy-query-with-or-and-like-common-filters/)
+* [SQLAlchemy - A Pythonic way of interacting with a DB](https://medium.com/dataexplorations/sqlalchemy-orm-a-more-pythonic-way-of-interacting-with-your-database-935b57fd2d4d)
+* [SQL Queries in Python](https://towardsdatascience.com/sql-queries-in-python-51ef85b92c1e)
+
+## Object Oriented Programming
+
+* [Object Oriented Programming](https://medium.com/from-the-scratch/oop-everything-you-need-to-know-about-object-oriented-programming-aee3c18e281b)
+
 ## APIs
 
 * [50 Useful APIs](https://www.computersciencezone.org/50-most-useful-apis-for-developers/#:~:text=1%20Census%20API%3A%20Access%20vast%20datasets%20from%20the,media%20profiles%2C%20followers%2C%20and%20activity.%20More%20items...%20)
