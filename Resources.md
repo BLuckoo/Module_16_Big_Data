@@ -132,6 +132,10 @@
 * [SQLAlchemy - A Pythonic way of interacting with a DB](https://medium.com/dataexplorations/sqlalchemy-orm-a-more-pythonic-way-of-interacting-with-your-database-935b57fd2d4d)
 * [SQL Queries in Python](https://towardsdatascience.com/sql-queries-in-python-51ef85b92c1e)
 
+#### Beautiful Soup
+
+* [Parsing HTML with Beautiful Soup](https://www.pythonforbeginners.com/beautifulsoup/scraping-websites-with-beautifulsoup)
+
 ## Object Oriented Programming
 
 * [Object Oriented Programming](https://medium.com/from-the-scratch/oop-everything-you-need-to-know-about-object-oriented-programming-aee3c18e281b)
@@ -193,6 +197,32 @@
 * [Regex Tester](https://regexr.com/)
 * [Common Regex Patterns](https://digitalfortress.tech/tricks/top-15-commonly-used-regex/)
 
+## Web
+
+### HTML
+
+* [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+* [HTML Tutorial](https://www.w3schools.com/html/)
+* [HTML Exercises](https://www.w3schools.com/html/html_exercises.asp)
+* [HTML Style Guide and Coding Conventions](https://www.w3schools.com/html/html5_syntax.asp)
+* [Another (non-W3 Schools) Tutorial](https://marksheet.io/)
+* [Intro to WebDev](https://btholt.github.io/intro-to-web-dev-v2/)
+* [Awesome List for HTML 5](https://github.com/diegocard/awesome-html5#readme)
+* [Free Code Camp HTML 5](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
+
+### CSS
+
+* [CSS Tutorial](https://www.w3schools.com/Css/)
+* [CSS Box Model](https://www.w3schools.com/Css/css_boxmodel.asp)
+* [CSS Zen Garden](http://www.csszengarden.com/)
+* [Awesome List for CSS](https://github.com/awesome-css-group/awesome-css#readme)
+
+#### Learn CSS Games
+
+* [CSS Dinner](https://flukeout.github.io/)
+* [Flexbox Froggy](https://flexboxfroggy.com/)
+* [Flexbox Defense](http://www.flexboxdefense.com/)
+
 ## Interview Questions
 
 * [160+ Interview Questions](https://hackernoon.com/160-data-science-interview-questions-415s3y2a)
@@ -202,3 +232,4 @@
 * [Huge List of Links to Interview Questions for Different Languages](https://github.com/DopplerHQ/awesome-interview-questions)
 * [More Data Science Questions](https://github.com/alexeygrigorev/data-science-interviews)
 * [Awesome Data Science Interview Resources](https://ds-interviews.org/awesome.html)
+
