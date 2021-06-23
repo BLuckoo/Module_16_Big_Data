@@ -3,5 +3,5 @@
     "editor.formatOnSave": true,
     "python.formatting.provider": "black",
     "jupyter.jupyterServerType": "local",
-    "python.pythonPath": "/Users/danielder/opt/anaconda3/envs/data-class/bin/python"
+    "python.pythonPath": "/Users/danielder/opt/anaconda3/envs/data-bootcamp/bin/python"
 }
