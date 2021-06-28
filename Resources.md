@@ -223,6 +223,19 @@
 * [Flexbox Froggy](https://flexboxfroggy.com/)
 * [Flexbox Defense](http://www.flexboxdefense.com/)
 
+### Javascript
+
+* [Variables](https://www.w3schools.com/js/js_variables.asp)
+* [If/Else](https://www.w3schools.com/js/js_if_else.asp)
+* [Logical Operators](https://www.w3schools.com/js/js_comparisons.asp)
+* [For Loops](https://www.w3schools.com/js/js_loop_for.asp)
+* [Map](https://www.w3schools.com/jsref/jsref_map.asp)
+* [Filter](https://www.w3schools.com/jsref/jsref_filter.asp)
+* [Arrow Functions](https://www.w3schools.com/js/js_arrow_function.asp)
+* [Awesome Javascript List](https://github.com/micromata/awesome-javascript-learning#interactive-learning)
+* [Eloquent Javascript - Book (Free)](https://eloquentjavascript.net/)
+* [Learn Javascript in X minutes](https://learnxinyminutes.com/docs/javascript/)
+
 ## Interview Questions
 
 * [160+ Interview Questions](https://hackernoon.com/160-data-science-interview-questions-415s3y2a)
@@ -232,4 +245,3 @@
 * [Huge List of Links to Interview Questions for Different Languages](https://github.com/DopplerHQ/awesome-interview-questions)
 * [More Data Science Questions](https://github.com/alexeygrigorev/data-science-interviews)
 * [Awesome Data Science Interview Resources](https://ds-interviews.org/awesome.html)
-
