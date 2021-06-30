@@ -235,6 +235,7 @@
 * [Awesome Javascript List](https://github.com/micromata/awesome-javascript-learning#interactive-learning)
 * [Eloquent Javascript - Book (Free)](https://eloquentjavascript.net/)
 * [Learn Javascript in X minutes](https://learnxinyminutes.com/docs/javascript/)
+* [Javascript for Data Science](http://js4ds.org/)
 
 ## Interview Questions
 
