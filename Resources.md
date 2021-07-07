@@ -236,6 +236,14 @@
 * [Eloquent Javascript - Book (Free)](https://eloquentjavascript.net/)
 * [Learn Javascript in X minutes](https://learnxinyminutes.com/docs/javascript/)
 * [Javascript for Data Science](http://js4ds.org/)
+* [Sorting](https://www.w3schools.com/jsref/jsref_sort.asp)
+* [Slicing](https://www.w3schools.com/jsref/jsref_slice_string.asp)
+* [Data Loading in D3](https://www.tutorialsteacher.com/d3js/loading-data-from-file-in-d3js)
+
+### Plotly
+
+* [Plotly Example](https://plotly.com/javascript/)
+* [Math.js](https://www.w3schools.com/js/js_math.asp)
 
 ## Interview Questions
 
