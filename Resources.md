@@ -158,6 +158,16 @@
 * [Advanced Topics](https://www.kdnuggets.com/2019/05/7-steps-mastering-sql-data-science-2019-edition.html)
 * [Case Function](https://mode.com/sql-tutorial/sql-case/)
 * [Distinct](https://www.w3schools.com/sql/sql_distinct.asp)
+* [Zachary Thomas’ SQL Questions](https://lnkd.in/g-JJzuD)
+* [Select * SQL](https://selectstarsql.com/)
+* [Leetcode](https://lnkd.in/g3c5JGC)
+* [LinkedIn Learning](https://lnkd.in/gQXFc4n)
+* [Window Functions](https://lnkd.in/g3RtPCJ)
+* [HackerRank](https://lnkd.in/grv_9sB)
+* [W3 Schools](https://lnkd.in/gJPfrrv)
+* [CodeAcademy](https://lnkd.in/gT5xmpN)
+* [SQLZoo](https://sqlzoo.net/)
+* [SQL Bolt](https://sqlbolt.com/)
 
 ### Aggregate Functions
 
