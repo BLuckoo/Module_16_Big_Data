@@ -250,10 +250,25 @@
 * [Slicing](https://www.w3schools.com/jsref/jsref_slice_string.asp)
 * [Data Loading in D3](https://www.tutorialsteacher.com/d3js/loading-data-from-file-in-d3js)
 
-### Plotly
+### Javascript Libraries
+
+#### Plotly
 
 * [Plotly Example](https://plotly.com/javascript/)
 * [Math.js](https://www.w3schools.com/js/js_math.asp)
+
+#### Leaflet
+
+* [MapBox](https://www.mapbox.com/)
+* [MapBox Examples](https://docs.mapbox.com/mapbox-gl-js/example/)
+* [Leaflet.js](https://leafletjs.com/)
+* [Leaflet Tutorials](https://leafletjs.com/examples.html)
+* [GeoJson](https://leafletjs.com/examples/geojson/)
+* [Pop Up](https://leafletjs.com/reference-1.7.1.html#popup)
+* [Layers](https://leafletjs.com/examples/layers-control/)
+* [Extra Markers](https://github.com/coryasilva/Leaflet.ExtraMarkers)
+* [Chloropleth](https://leafletjs.com/examples/choropleth/#custom-legend-control)
+* [Creating Custom Maps](https://www.youtube.com/watch?v=EmfE9VyAYcY&ab_channel=DasTactic)
 
 ## Interview Questions
 
