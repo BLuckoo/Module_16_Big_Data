@@ -273,6 +273,7 @@
 ## Tableau
 
 * [Tableau Gallery](https://www.tableau.com/gallery)
+* [Tableau Viz of the Day](https://public.tableau.com/zh-cn/gallery/?tab=viz-of-the-day&type=viz-of-the-day)
 * [Tableau Tutorials](https://www.tableau.com/learn/tutorials)
 * [Tableau Students Guide](https://www.thetableaustudentguide.com/)
 * [Tableau Blogs](https://public.tableau.com/app/profile/acotgreave.tableausoftware.com/viz/BOTWBlogsIfollow/BlogsforBOTW)
