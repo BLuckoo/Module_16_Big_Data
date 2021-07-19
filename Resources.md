@@ -270,6 +270,14 @@
 * [Chloropleth](https://leafletjs.com/examples/choropleth/#custom-legend-control)
 * [Creating Custom Maps](https://www.youtube.com/watch?v=EmfE9VyAYcY&ab_channel=DasTactic)
 
+## Tableau
+
+* [Tableau Gallery](https://www.tableau.com/gallery)
+* [Tableau Tutorials](https://www.tableau.com/learn/tutorials)
+* [Tableau Students Guide](https://www.thetableaustudentguide.com/)
+* [Tableau Blogs](https://public.tableau.com/app/profile/acotgreave.tableausoftware.com/viz/BOTWBlogsIfollow/BlogsforBOTW)
+* [Which Chart to Use](https://www.tableau.com/sites/default/files/media/which_chart_v6_final_0.pdf)
+
 ## Interview Questions
 
 * [160+ Interview Questions](https://hackernoon.com/160-data-science-interview-questions-415s3y2a)
