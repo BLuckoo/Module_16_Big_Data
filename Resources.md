@@ -136,6 +136,11 @@
 
 * [Parsing HTML with Beautiful Soup](https://www.pythonforbeginners.com/beautifulsoup/scraping-websites-with-beautifulsoup)
 
+#### PySpark
+
+* [PySpark Docs](https://spark.apache.org/docs/latest/api/python/)
+* [Brief Introduction or PySpark](https://towardsdatascience.com/a-brief-introduction-to-pyspark-ff4284701873)
+
 ## Object Oriented Programming
 
 * [Object Oriented Programming](https://medium.com/from-the-scratch/oop-everything-you-need-to-know-about-object-oriented-programming-aee3c18e281b)
@@ -278,6 +283,20 @@
 * [Tableau Students Guide](https://www.thetableaustudentguide.com/)
 * [Tableau Blogs](https://public.tableau.com/app/profile/acotgreave.tableausoftware.com/viz/BOTWBlogsIfollow/BlogsforBOTW)
 * [Which Chart to Use](https://www.tableau.com/sites/default/files/media/which_chart_v6_final_0.pdf)
+
+## R
+
+* [Python or R for Data Analysis?](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis)
+* [R vs Python](https://www.ibm.com/cloud/blog/python-vs-r)
+* [Stats Package](https://www.rdocumentation.org/packages/stats/versions/3.5.1)
+* [Tidyverse Packages](https://www.tidyverse.org/packages/)
+* [R for Data Science - Book (Free)](https://r4ds.had.co.nz/)
+* [Learn R Through Examples](https://gexijin.github.io/learnR/index.html)
+* [The Languages of Data Science](https://developer.ibm.com/tutorials/ba-intro-data-science-4/)
+
+## Data Sources
+
+* [Registry of Open Data on AWS](https://registry.opendata.aws/)
 
 ## Interview Questions
 
